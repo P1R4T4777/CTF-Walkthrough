@@ -57,4 +57,4 @@ Eso ayuda a que más personas encuentren el contenido.
 
 🚀 *Aprender hacking no debería depender del idioma.*
 
-🛠️ Este repositorio es mantenido por el **Club de Hacking Ético de la UAEH**.
+🛠️ Este repositorio es mantenido por el **Club de Hacking Ético 0xGarzas**.
