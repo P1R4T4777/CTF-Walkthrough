@@ -15,7 +15,7 @@ Las flags que configuramos en nmap son:
 * --open Con esta flag filtramos por unicamente los puertos abiertos 
 * -sS un escaneo de tipo SYN / SCAN 
 * --min-rate 5000 Indicamos que seran un minimo de 5000 paquetes por segundo por lo que sera un escaneo rapido 
-* -n No aplicara resolucion DNS puesto que para esta maquina no es nechttps://github.com/P1R4T4777/CTF-Walkthroughesario
+* -n No aplicara resolucion DNS puesto que para esta maquina no es necesario
 * -Pn No realiza un ping antes de la conexion, nmap da por hecho que el host se encuentra activo 
 * -vvv Los resultados los muestre en pantalla conforme los encuentre
 * -oG Exporte los resultados que nos arroja en terminal a un formato Grepeable para poder procesarlo posteriormente de manera rapida 
