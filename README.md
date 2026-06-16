@@ -17,8 +17,8 @@ El objetivo es **reducir la brecha de conocimiento** en ciberseguridad ofensiva 
 ## 🧩 Plataformas incluidas
 
 - 🟦 TryHackMe
-- 🟩 Hack The Box *(próximamente)*
-- 🟥 Otros CTFs (según aportaciones)
+- 🟩 Hack The Box
+- 🟥 PortSwigger
 
 ---
 
